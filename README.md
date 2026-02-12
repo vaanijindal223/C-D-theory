@@ -21,7 +21,11 @@ Containerization and DevOps.
 👉 [Experiment 7 – 5 Feb](5feb.md)  
 👉 [Experiment 8 – 6 Feb](6feb.md)  
 👉 [Experiment 9 – 10 Feb](10feb.md) 
+
 👉 [Experiment 10 – 11 Feb](11feb.md) 
+
+👉 [Experiment 10 – 12 Feb](12feb.md)
+
 
 
 
