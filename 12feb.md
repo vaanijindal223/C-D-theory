@@ -44,6 +44,7 @@ Volume inspection is used to see details of a volume.
 - Check mount path and configuration.
 
 ### Output Screenshot
+![Bind Mount Output](theory%20images/12feb/a.png)
 
 
 ---
@@ -59,7 +60,8 @@ Tmpfs mount stores data temporarily in memory.
 
 ### Output Screenshot
 
-![Tmpfs Output](theory images/12 feb/d.png)
+![Docker Volume Output](theory%20images/12feb/b.png)
+
 
 ---
 
