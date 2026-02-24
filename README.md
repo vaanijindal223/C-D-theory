@@ -10,7 +10,7 @@ Containerization and DevOps.
 ---
 
 
-## 📘 Lab Experiments
+## 📘 class Experiments
 
 👉 [Experiment 1 – 23 Jan](23jan.md)    
 👉 [Experiment 2 – 27 Jan](27jan.md)  
