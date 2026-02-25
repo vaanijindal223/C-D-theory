@@ -28,7 +28,9 @@ Containerization and DevOps.
 
 👉 [Experiment 12 – 18 Feb](18feb.md) 
 
-👉 [Experiment – 20 Feb](20feb.md)
+👉 [Experiment – 20 Feb](20feb.md) 
+
+👉 [25 February Class Task](25feb.md)
 
 
 
