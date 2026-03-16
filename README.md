@@ -32,7 +32,11 @@ Containerization and DevOps.
 
 👉 [25 February Class Task](25feb.md)
 
+## Project Report
 
+You can view the detailed project report for the Dockerized web application here:
+
+➡️ [View Project Report](project%20report%20.md)
 
 
 
