@@ -11,7 +11,9 @@ Learn basic Git commands to create a new repository and push it to GitHub.
 
 ---
 ## Outputs 
+![C Program](./theory%20images/9Apr/a.png) 
 
+![C Program](./theory%20images/9Apr/b.png)
 
 ## Commands Used
 
